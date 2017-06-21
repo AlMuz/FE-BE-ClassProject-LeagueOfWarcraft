@@ -1,0 +1,150 @@
+﻿.header a, a:hover {
+	color: #f0ad4e;
+	text-decoration: none;
+}
+
+.header h1 {
+	letter-spacing: 15px;
+	font-size: 300%;
+}
+
+.header p {
+	color: white !important;
+	font-size: 90%;
+	letter-spacing: 3px;
+}
+
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #346270;
+}
+
+.nav-pills>li>a {
+	color: #fff;
+}
+
+.nav-pills>li>a:hover {
+	background-color: #346270;
+}
+
+
+.navbar-inverse {
+    padding: 1%;
+}
+
+@media (max-width: 767px) {
+	.nav-pills>li {
+		float: none;
+	}
+
+	.nav-pills {
+		text-align: center;
+	}
+
+	.header h1 { 
+	    font-size: 280%;
+	    letter-spacing: 5px;
+	}
+
+	.header {
+		text-align: center;
+	}
+} 
+
+
+.clear {
+	clear: both;
+	height: 63px;
+}
+
+
+
+html, body {
+	height: 100%;
+}
+
+
+
+.margin-8 {
+	margin-top: 8%;
+}
+
+footer {
+	color: #666;
+	background: #222;
+	padding: 17px 0 18px 0;
+	border-top: 1px solid #000;
+}
+
+footer p {
+	color: #b0ab15;
+}
+
+.biba{
+	padding-left: 30px;
+	font-size: 20px;
+
+}
+
+.otstup{
+	padding-left: 130px;
+
+}
+
+.ae{
+	padding-left: 90px;
+	font-weight: 600;
+}
+
+.ots{
+	padding-left: 130px;
+}
+
+
+
+.nt{
+	color:blue;
+
+}
+
+.layer{
+	 float: left;
+	 padding-top: 7px;
+     margin-right: 15px; /* Отступ справа */
+     font-weight: 550;
+}
+
+.form {
+width:470px;
+margin: 0 auto;
+border: 1px solid #ddd;
+padding: 15px ;
+font: 16px Tahoma;
+text-align:center;
+}
+.form ul li{
+list-style:none;
+padding: 5px 0;
+}
+.form span{
+color: #E52B50;
+font: 16px Tahoma;
+}
+#subm{
+padding-left: 140px;
+
+}
+#form{
+	padding-left:  15px;
+	padding-right: 5px;
+}
+.row{
+
+	margin-right: 0;
+	margin-left: 0;
+}
+
+.red{
+	color: red;
+}

@@ -1,0 +1,217 @@
+/*Background and body*/
+body, html {
+  height: 100%;
+  margin: 0%;
+  font-family: "Lato", sans-serif;
+  background-color: #f1f1f1;
+}
+
+.bg{
+  /*Image*/
+  background-image: url("http://wallpapersdsc.net/wp-content/uploads/2015/11/League_Of_Legends_pic16.jpg");
+  height: 100%;
+  opacity: 0.65;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  top: 0px;
+}
+
+.bg-wow{
+  /*Image*/
+  background-image: url("http://wallpapersdsc.net/wp-content/uploads/2016/01/World_of_Warcraft_Legion_5.jpg");
+  height: 100%;
+  opacity: 0.65;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  top: 0px;
+}
+
+.bg-lol{
+  /*Image*/
+  background-image: url("http://www.acsu.buffalo.edu/~ashbelbe/League.jpg");
+  height: 100%;
+  opacity: 0.65;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  top: 0px;
+}
+
+.bg-profile{
+  /*Image*/
+  background-image: url("https://wallpaperscraft.com/image/wow_illidan_world_of_warcraft_castle_monster_bad_weather_95971_1920x1080.jpg");
+  height: 100%;
+  opacity: 0.65;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  top: 0px;
+}
+
+.bg-about{
+  /*Image*/
+  background-image: url("https://wallpaperscraft.com/image/wolf_face_abstract_colorful_92879_1920x1080.jpg");
+  height: 75%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  top: 0px;
+}
+
+.bg-about1{
+  /*Image*/
+  background-image: url("https://wallpaperscraft.com/image/wolf_face_abstract_colorful_92879_1920x1080.jpg");
+  height: 30%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  top: 0px;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.caption-about {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+}
+
+.caption span.border {
+  background-color: #000;
+  color: #fff;
+  padding: 14px;
+  font-size: 30px;
+  letter-spacing: 5px;
+}
+
+.caption-about span.border {
+  background-color: #fff;
+  color: #000;
+  padding: 14px;
+  font-size: 30px;
+  letter-spacing: 5px;
+}
+
+.caption-about span.border1 {
+  background-color: #fff;
+  color: #000;
+  padding: 14px;
+  font-size: 30px;
+  letter-spacing: 5px;
+}
+
+
+.caption-about span.border2 {
+  background-color: #000;
+  color: #fff;
+  padding: 14px;
+  font-size: 30px;
+  letter-spacing: 5px;
+}
+
+
+.article-h1{
+  letter-spacing: 4px;
+  font-family: sans-serif;
+  font-size: 32px;
+  text-decoration: underline;
+  color: black;
+}
+
+.article-h1-black{
+  letter-spacing: 4px;
+  font-family: sans-serif;
+  font-size: 32px;
+  text-decoration: underline;
+  color: white;
+}
+
+.name{
+  font-family: sans-serif;
+  font-size: 14px;
+  color: black;
+}
+
+.lastname{
+  font-family: sans-serif;
+  font-size: 14px;
+  color: black;
+}
+
+.username{
+  font-family: sans-serif;
+  font-size: 14px;
+  color: black;
+}
+
+.email{
+  font-family: sans-serif;
+  font-size: 14px;
+  color: black;
+}
+
+.registartion-date{
+  font-family: sans-serif;
+  font-size: 14px;
+  color: black;
+
+}
+.author{
+  font-family: sans-serif;
+  font-size: 12px;
+  color: black;
+}
+
+.desclaimer{
+  font-family: sans-serif;
+  font-size: 12px;
+  color: #afafaf;
+}
+
+.content{
+  font-family: sans-serif;
+  font-size: 16px;
+  color: black;
+}
+
+.date{
+  font-family: sans-serif;
+  font-size: 12px;
+  color: black;
+}
+
+article{
+  word-wrap: break-word;
+}
+
+.grey-map{
+  filter:grayscale(100%);
+}
+
+footer {
+  background-color: #000000;
+  color: white;
+  padding: 15px;
+  font-size: 12px;
+}
+.content-white{
+
+  font-family: sans-serif;
+
+  font-size: 16px;
+
+  color: white;
+
+}
